@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\bin\Debug\net6.0\diaqonal.exe
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\bin\Debug\net6.0\diaqonal.deps.json
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\bin\Debug\net6.0\diaqonal.runtimeconfig.json
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\bin\Debug\net6.0\diaqonal.dll
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\bin\Debug\net6.0\diaqonal.pdb
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.dll
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\refint\diaqonal.dll
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.pdb
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\diaqonal.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Work\diaqonal\diaqonal\obj\Debug\net6.0\ref\diaqonal.dll
